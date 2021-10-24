@@ -53,15 +53,6 @@ button:hover {
   font-size: 2rem;
   border-radius: 2rem;
 }
-
-@font-face {
-  font-family: 'Digital-7';
-  src: url('../fonts/digital-7.ttf');
-}
-svg {
-  font-family: 'Digital-7', sans-serif;
-}
-
 .s7digit {
   font-size: 5rem;
   margin: 0;
